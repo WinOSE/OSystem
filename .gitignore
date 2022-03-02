@@ -1,2 +1,8 @@
 login.json
 bootSetups.json
+dist/
+build/
+kernel_update.py
+.wget-hsts
+kernel_update.exe
+__pycache__/
